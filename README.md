@@ -1,8 +1,11 @@
+<p align="center">
 # 🌊 Sea Beneath - Real-Time Underwater Object Detection
+</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74359573/173828146-89c7a734-2d6f-4e0a-8f13-55fd6d05d90d.png" width="600"/>
+  <img src="https://github.com/SharmAnshu5/Sea-Beneath-Object-Detection/blob/main/Screenshot%202025-06-22%20223355.png" width="600"/>
 </p>
+<p align="center">
 
 ## 🔍 Overview
 
@@ -12,6 +15,7 @@
 - Training support on custom marine datasets.
 - A visually intuitive web interface with Streamlit.
 - Deployability for underwater robots and autonomous drones (AUVs).
+- </p>
 
 ---
 
@@ -30,14 +34,14 @@
 
 ## 🧠 Tech Stack
 
-| Type        | Tech Used                        |
-|-------------|----------------------------------|
-| 🎯 Model     | YOLOv8n (Ultralytics)            |
-| 🎥 Video I/O | OpenCV                           |
-| 🧪 UI        | Streamlit                        |
-| 📊 Metrics   | scikit-learn, Matplotlib         |
-| 📁 Backend   | FastAPI / Python backend         |
-| 📦 Package   | Python 3.10+                     |
+| Type        | Tech Used                          |
+|--------------|-----------------------------------|
+| 🎯 Model     | YOLOv8n (Ultralytics)             |
+| 🎥 Video I/O | OpenCV                            |
+| 🧪 UI        | Streamlit                         |
+| 📊 Metrics   | scikit-learn, Matplotlib          |
+| 📁 Backend   | FastAPI / Python backend          |
+| 📦 Package   | Python 3.10+                      |
 
 ---
 
