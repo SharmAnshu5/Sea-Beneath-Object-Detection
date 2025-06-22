@@ -1,6 +1,8 @@
 <h1 align="center">🌊 Sea Beneath</h1>
 <h3 align="center">Real-Time Underwater Object Detection using Deep Learning</h3>
 
+---
+
 <p align="center">
   <img src="https://github.com/SharmAnshu5/Sea-Beneath-Object-Detection/blob/main/Screenshot%202025-06-22%20223355.png" width="600"/>
 </p>
